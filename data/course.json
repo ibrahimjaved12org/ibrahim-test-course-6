@@ -1,0 +1,34 @@
+{
+  "term": "Summer",
+  "year": "2020",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "ibrahim-test-course-6"
+  },
+  "course_image": {
+    "content": "",
+    "website": "ibrahim-test-course-6"
+  },
+  "course_title": "ibrahim-test-course-6",
+  "course_description": "",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "125",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "ibrahim-test-course-6"
+  },
+  "learning_resource_types": [
+    "Activity Assignments with Examples",
+    "Activity Assignments"
+  ],
+  "site_uid": "fb352e70-2993-4f92-bce4-8d68aacb4188",
+  "site_short_id": "ibrahim-test-course-6"
+}
